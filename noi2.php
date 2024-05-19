@@ -297,7 +297,7 @@ $refererList = array(
 );
 
 // إرسال الزيارات
-$url = 'https://www.wpdoh.com/2024/05/10_46.html';
+$url = 'https://arqim.xyz/';
 $numVisits = 1000;
 sendTraffic($url, $numVisits, $ipList, $refererList);
 echo 'Traffic sent successfully!';
